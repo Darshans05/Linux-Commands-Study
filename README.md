@@ -339,5 +339,11 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+![Screenshot from 2024-10-18 10-48-11](https://github.com/user-attachments/assets/2419a242-285a-4890-9598-9d3de09398bc)
+![Screenshot from 2024-10-18 10-54-10](https://github.com/user-attachments/assets/7824bc89-16ca-48e2-97af-0c0cd8481de9)
+![Screenshot from 2024-10-18 11-04-59](https://github.com/user-attachments/assets/f4a0996f-a0cb-4bf2-ad2a-5a14fbebe3bb)
+![Screenshot from 2024-10-18 11-07-44](https://github.com/user-attachments/assets/43f11acf-db46-4291-ada1-800669827808)
 
 ## Result
+Hence , the above mentioned commands are executed successfully.
+
